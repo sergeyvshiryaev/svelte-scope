@@ -1,0 +1,2 @@
+# svelte-scope
+Svelte Notes
